@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Yo, I'm Amara and I'm currently on my learning jeaourny!
 (Currently working on making portfolio for my Github.)
 
