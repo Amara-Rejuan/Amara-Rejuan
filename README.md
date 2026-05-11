@@ -1,11 +1,13 @@
-Yo, I'm Amara and I'm currently on my learning jeaourny!
-(Currently working on making portfolio for my Github.)
+Hello, I'm Amara and I'm currently on my learning jeaourny!
 
 Currently learning:
+- JavaScript
+
+Things I have worked with: 
 - HTML
 - CSS
-- Github
-
+- Gitbash
+  
 Coding languages I've used:
 - Visual Studio Coding
-- Python
+- Python (only a little=
