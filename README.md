@@ -6,8 +6,10 @@ Currently learning:
 Things I have worked with: 
 - HTML
 - CSS
+- Javascript
 - Gitbash
+
   
 Coding languages I've used:
 - Visual Studio Coding
-- Python (only a little=
+- Python (only a little)
